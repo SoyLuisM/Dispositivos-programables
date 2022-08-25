@@ -1,6 +1,0 @@
-[PROJECTS]
-Count=2
-Project0=..\..\DSP01_GPIO_LED\DSP01_GPIO_LED.mcpar
-Project1=..\..\DSP01_GPIO_LED\DSP02_GPIO_Display.mcpar
-[ActiveProject]
-Index=1

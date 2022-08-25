@@ -1,0 +1,11 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F103R6 -BIN -LHF -DL -SSA -O11111114 -fo16 -N"C:\Users\s_k_a\Desktop\dispositivos programables\Dispositivos-programables\DSP02_GPIO_Display\DSP02_GPIO_Display.mcpar" -SP"D:\Programas\mikroC PRO for ARM\Defs\" -SP"D:\Programas\mikroC PRO for ARM\Uses\ST M3\" -SP"C:\Users\s_k_a\Desktop\dispositivos programables\Dispositivos-programables\DSP02_GPIO_Display\" -IP"D:\Programas\mikroC PRO for ARM\Uses\ST M3\" -IP"C:\Users\s_k_a\Desktop\dispositivos programables\Dispositivos-programables\DSP02_GPIO_Display\" "DSP02_GPIO_Display.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_101_102_103.emcl" "__Lib_GPIO_32F10x_Defs.emcl" "__Lib_GPIO_32F10x.emcl"	 
+diagnostics: 0	122	Compilation Started	DSP02_GPIO_Display.c
+diagnostics: 3	123	Compiled Successfully	DSP02_GPIO_Display.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RX: 11 (69%)   Free RX: 5 (31%)	Used RX: 11 (69%)   Free RX: 5 (31%)
+hint: 0	1144	Static RAM (bytes): 4   Dynamic RAM (bytes): 10233	Static RAM (bytes): 4   Dynamic RAM (bytes): 10233
+hint: 0	1144	Used ROM (bytes): 776 (2%)  Free ROM (bytes): 31992 (98%)	Used ROM (bytes): 776 (2%)  Free ROM (bytes): 31992 (98%)
+diagnostics: 0	125	Project Linked Successfully	DSP02_GPIO_Display.mcpar
+diagnostics: 0	128	Linked in 188 ms	 
+diagnostics: 0	129	Project 'DSP02_GPIO_Display.mcpar' completed: 407 ms	 
+diagnostics: 0	103	Finished successfully: 25 ago. 2022, 12:38:54	DSP02_GPIO_Display.mcpar
