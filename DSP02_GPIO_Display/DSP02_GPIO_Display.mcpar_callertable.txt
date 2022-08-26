@@ -1,2 +1,21 @@
 main
+	__CC2DW
 	__FillZeros
+	init_program
+		GPIO_Digital_Input
+			GPIO_Config
+				GPIO_Clk_Enable
+		GPIO_Config
+	mover_letras
+		strlen
+		pintar_letra
+	mover_letras_1
+		strlen
+		pintar_letra
+	mover_letras_2
+		strlen
+		pintar_letra
+	proceso_numeros
+		mover_datos
+			pintar_led
+				obtener_numero
